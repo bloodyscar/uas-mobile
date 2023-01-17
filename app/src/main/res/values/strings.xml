@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UASMobile202010225017</string>
+    <string name="title">SISTEM PERHITUNGAN GAJI</string>
+    <string name="nik">NIK</string>
+    <string name="nama">Nama Karyawan</string>
+    <string name="gaji">Gaji Pokok</string>
+    <string name="lembur">Lembur</string>
+    <string name="golongan">Golongan</string>
+    <string name="insentif">Insentif</string>
+    <string name="jumlahHari">Jumlah Hari Masuk Kerja</string>
+</resources>
